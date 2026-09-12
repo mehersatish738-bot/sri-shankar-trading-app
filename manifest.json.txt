@@ -1,0 +1,10 @@
+{
+  "name": "SRI SHANKAR TRADING",
+  "short_name": "SRI SHANKAR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0b5ed7",
+  "orientation": "portrait-primary",
+  "description": "SRI SHANKAR TRADING Business App"
+}
